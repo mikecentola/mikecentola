@@ -2,7 +2,7 @@
 
 ### 🔭 I’m currently working on ...
  - [G-Code Extension for VSCode](https://github.com/appliedengdesign/vscode-gcode-syntax)
- - [G-Code Reference Node Module)(https://github.com/appliedengdesign/gcode-reference)
+ - [G-Code Reference Node Module](https://github.com/appliedengdesign/gcode-reference)
 
 ### 🌱 I’m currently learning ...
  - `Typescript`
