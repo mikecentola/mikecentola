@@ -3,6 +3,7 @@
 ### 🔭 I’m currently working on ...
  - [G-Code Extension for VSCode](https://github.com/appliedengdesign/vscode-gcode-syntax)
  - [G-Code Reference Node Module](https://github.com/appliedengdesign/gcode-reference)
+ - [CNC Codes JSON Schema](https://github.com/appliedengdesign/cnccodes-json-schema)
 
 ### 🌱 I’m currently learning ...
  - `Typescript`
